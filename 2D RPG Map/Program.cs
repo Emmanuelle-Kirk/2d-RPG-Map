@@ -11,6 +11,7 @@ namespace _2D_RPG_Map
         static void Main(string[] args)
         {
             Console.WriteLine("2D RPG Map");
+            Console.ReadKey(true);
         }
     }
 }
